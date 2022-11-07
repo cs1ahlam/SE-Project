@@ -49,7 +49,7 @@ function check_odd_number(number) {
     if (number % 2 != 0) {
         return true
     }
-    return false
+    return 0
 }
 
 function even(number) {
