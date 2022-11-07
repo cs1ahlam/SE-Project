@@ -46,7 +46,8 @@ function modolo(number1, number2) {
 }
 
 function check_odd_number(number) {
-    if (number % 2 = 0) {
+    if (number % 2 != 0) {
+        console.log('odd');
         return true
     }
     return false
