@@ -1,5 +1,5 @@
 {
- "name": "SE-Project ",
+ "name": "SE-Project",
  "version": "1.0.0",
  "description": "Automate Testing",
  "main": "index.js",
@@ -9,7 +9,7 @@
  "repository": {
    "type": "git"
  },
- "author": "Ahlam ",
+ "author": "Ahlam",
  "license": "MIT",
  "devDependencies": {
    "jest": "^26.0.1"
