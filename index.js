@@ -25,7 +25,7 @@ function subtract(number1, number2) {
 }
 
 function divide(number1, number2) {
-    return number1 / 0
+    return number1 / number2
 }
 
 function power(base, power) {
@@ -55,5 +55,6 @@ function check_odd_number(number) {
 function even(number) {
 	if(number % 2 == 0) {
     return "even"
+}
 }
 }
