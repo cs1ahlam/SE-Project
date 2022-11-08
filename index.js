@@ -25,6 +25,7 @@ function subtract(number1, number2) {
 }
 
 function divide(number1, number2) {
+	console.log('divide');
     return number1 / number2
 }
 
