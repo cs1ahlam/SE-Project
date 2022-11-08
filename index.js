@@ -11,6 +11,7 @@ module.exports.even = even;
 function add(...number) {
     let sum = 0;
     number.forEach(x => sum += x);
+	console.log('add');
     return sum;
 }
 
