@@ -17,7 +17,7 @@ function add(...number) {
 
 function multiply(...number) {
     sum = 1
-    number.forEach(x => sum *= x);
+    number.forEach(x => sum *= x)
     return sum
 }
 
